@@ -1,0 +1,27 @@
+_repo: Zephyrs_69365
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stiles, Kate R.
+    gutenberg_agent_id: '55149'
+    url: http://www.gutenberg.org/2009/agents/55149
+description: ''
+gutenberg_issued: '2022-11-16'
+identifiers:
+  gutenberg: '69365'
+language: en
+pgterms:marc905: 20220212174052stiles
+pgterms:marc906: '1879'
+pgterms:marc907: US
+production_note: Carla Foust and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: A. B. Adams,1879.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry -- 19th century'
+- !lcc 'PS'
+- GITenberg
+title: Zephyrs
+url: http://www.gutenberg.org/ebooks/69365
